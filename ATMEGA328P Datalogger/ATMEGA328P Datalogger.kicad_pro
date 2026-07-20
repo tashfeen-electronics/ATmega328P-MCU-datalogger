@@ -518,7 +518,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "/connectors/MOSI"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -636,6 +641,14 @@
     "meta": {
       "version": 1
     },
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 3,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -648,7 +661,7 @@
         "uuid": "6eceb0a5-7e25-4ff2-9ae1-fa00ceae2c0d"
       }
     ],
-    "used_designators": "U1-5,D1-3,BT1-2,#PWR1-11,R1-7,C1-6,Y1-3,H1-5,J1-6",
+    "used_designators": "U1-5,D1-3,BT1-2,#PWR1-11,#FLG1-2,R1-7,C1-6,Y1-3,H1-5,J1-6",
     "variants": []
   },
   "sheets": [
@@ -657,7 +670,7 @@
       ""
     ],
     [
-      "693a9992-beab-4310-8035-8031595c2700",
+      "326b1a6a-2dad-4f64-a9bf-3d339a339cd6",
       "connectors"
     ]
   ],
