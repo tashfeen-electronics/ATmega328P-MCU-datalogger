@@ -511,6 +511,15 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "name": "POWER",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(255, 37, 51)",
+        "tuning_profile": "",
+        "wire_width": 12
       }
     ],
     "meta": {
@@ -522,6 +531,14 @@
       {
         "netclass": "Default",
         "pattern": "/connectors/MOSI"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "VCC"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "GND"
       }
     ]
   },
