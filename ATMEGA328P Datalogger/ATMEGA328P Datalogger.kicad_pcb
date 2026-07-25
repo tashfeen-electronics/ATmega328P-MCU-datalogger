@@ -143,7 +143,6 @@
 			(outputdirectory "")
 		)
 	)
-	(property "Project" "MCU datalogger with memory and clock")
 	(footprint "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "010610fa-c3fc-4ef3-8b4d-b66f91407f2d")
