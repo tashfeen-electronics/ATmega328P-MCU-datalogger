@@ -29,7 +29,7 @@ This project logs sensor readings at fixed intervals, timestamps each entry usin
 | Component            | Purpose                          |
 |-----------------------|-----------------------------------|
 | ATmega328P            | Core microcontroller / logic unit |
-| RTC Module (e.g. DS1307/DS3231) | Real-time timestamping   |
+| RTC Module DS1337S    | Real-time timestamping   |
 | EEPROM (external/internal) | Non-volatile data storage     |
 | Sensor(s)              | Data source (analog/digital)     |
 | Power supply / battery | Field-deployable operation       |
