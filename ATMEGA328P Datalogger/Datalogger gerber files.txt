@@ -1,0 +1,14 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Warning: Width correction constrained.  The width correction value must be in the range of [-0.199999 mm; -0.000002 mm] for the current design rules.
+Plotted to 'W:\KICAD v10.4\projects github\ATmega328P MCU datalogger\ATMEGA328P Datalogger\ATMEGA328P Datalogger-F_Cu.gbr'.
+Plotted to 'W:\KICAD v10.4\projects github\ATmega328P MCU datalogger\ATMEGA328P Datalogger\ATMEGA328P Datalogger-B_Cu.gbr'.
+Plotted to 'W:\KICAD v10.4\projects github\ATmega328P MCU datalogger\ATMEGA328P Datalogger\ATMEGA328P Datalogger-F_Paste.gbr'.
+Plotted to 'W:\KICAD v10.4\projects github\ATmega328P MCU datalogger\ATMEGA328P Datalogger\ATMEGA328P Datalogger-B_Paste.gbr'.
+Plotted to 'W:\KICAD v10.4\projects github\ATmega328P MCU datalogger\ATMEGA328P Datalogger\ATMEGA328P Datalogger-F_Silkscreen.gbr'.
+Plotted to 'W:\KICAD v10.4\projects github\ATmega328P MCU datalogger\ATMEGA328P Datalogger\ATMEGA328P Datalogger-B_Silkscreen.gbr'.
+Plotted to 'W:\KICAD v10.4\projects github\ATmega328P MCU datalogger\ATMEGA328P Datalogger\ATMEGA328P Datalogger-F_Mask.gbr'.
+Plotted to 'W:\KICAD v10.4\projects github\ATmega328P MCU datalogger\ATMEGA328P Datalogger\ATMEGA328P Datalogger-B_Mask.gbr'.
+Plotted to 'W:\KICAD v10.4\projects github\ATmega328P MCU datalogger\ATMEGA328P Datalogger\ATMEGA328P Datalogger-Edge_Cuts.gbr'.
+Created Gerber job file 'W:\KICAD v10.4\projects github\ATmega328P MCU datalogger\ATMEGA328P Datalogger\ATMEGA328P Datalogger-job.gbrjob'.
+Info: Done.
