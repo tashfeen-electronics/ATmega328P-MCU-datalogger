@@ -1,5 +1,6 @@
 # ATmega328P Data Logger — EEPROM + RTC
 
+<img width="1040" height="592" alt="image" src="https://github.com/user-attachments/assets/9604f966-d5f5-4f03-b64c-4481d62bca19" />
 
 
 
